@@ -1,0 +1,7 @@
+global-styling:
+  css:
+    base:
+      css/base/variables.css: {}
+      css/base/fonts.css: {}
+    layout:
+      css/layout/layout.css: {}
