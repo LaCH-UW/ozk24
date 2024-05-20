@@ -4,7 +4,7 @@ description: Theme created for Obserwatorium Żywej Kultury after migrating to D
 core_version_requirement: ^10
 base theme: olivero
 libraries:
-  -ozk24/global-styling
+  - ozk24/global-styling
 regions:
   header: Header
   primary_menu: Primary menu
