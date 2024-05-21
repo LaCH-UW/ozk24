@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="nitka.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="4.1978414"
+     inkscape:cx="119.70438"
+     inkscape:cy="112.55785"
+     inkscape:window-width="2400"
+     inkscape:window-height="1321"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid182"
+       originx="0"
+       originy="0" />
+    <sodipodi:guide
+       position="39.687499,0"
+       orientation="1,0"
+       id="guide651"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#333333;stroke-width:0.264583"
+       d="M 39.6875,0 C 49.807452,6.6887031 43.571728,15.093088 34.917747,20.862409 3.1838754,42.018323 7.0704725,-4.4674922 32.774781,12.668713 c 3.216992,2.144662 5.310603,6.742209 4.348962,10.588776 -1.072735,4.290935 -8.771679,8.549452 -12.353572,10.084548 -13.883622,5.950125 11.17648,13.931315 14.917329,19.574629"
+       id="path706" />
+  </g>
+</svg>
