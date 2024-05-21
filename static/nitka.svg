@@ -3,10 +3,10 @@
 
 <svg
    width="200"
-   height="200"
-   viewBox="0 0 52.916665 52.916666"
+   height="1000"
+   viewBox="0 0 52.916665 264.58333"
    version="1.1"
-   id="svg5"
+   id="svg718"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="nitka.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -14,7 +14,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview7"
+     id="namedview720"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="4.1978414"
-     inkscape:cx="119.70438"
-     inkscape:cy="112.55785"
+     inkscape:zoom="0.74208053"
+     inkscape:cx="384.72914"
+     inkscape:cy="489.16524"
      inkscape:window-width="2400"
      inkscape:window-height="1321"
      inkscape:window-x="-9"
@@ -36,24 +36,22 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid182"
-       originx="0"
-       originy="0" />
+       id="grid839" />
     <sodipodi:guide
-       position="39.687499,0"
+       position="42.333332,92.604166"
        orientation="1,0"
-       id="guide651"
+       id="guide841"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs715" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
        style="fill:none;stroke:#333333;stroke-width:0.264583"
-       d="M 39.6875,0 C 49.807452,6.6887031 43.571728,15.093088 34.917747,20.862409 3.1838754,42.018323 7.0704725,-4.4674922 32.774781,12.668713 c 3.216992,2.144662 5.310603,6.742209 4.348962,10.588776 -1.072735,4.290935 -8.771679,8.549452 -12.353572,10.084548 -13.883622,5.950125 11.17648,13.931315 14.917329,19.574629"
-       id="path706" />
+       d="M 42.333333,0 C 45.621397,10.130679 33.139583,21.906007 23.19446,19.916982 -0.51365933,15.175358 52.011661,3.9067541 34.539576,33.026895 28.682608,42.788509 5.2128956,49.039933 15.378936,64.288992 20.699411,72.269706 44.26078,84.76213 47.397376,69.079154 50.238847,54.871797 19.03775,48.141056 10.840889,80.928497 2.1834816,115.55813 74.632303,117.73211 24.202915,155.55415 8.7819896,167.11985 5.3342637,149.98771 20.42121,142.44424 c 18.085361,-9.04268 25.095137,21.73007 17.395844,33.27901 -6.714111,10.07116 -18.476672,18.58404 -28.2367334,8.82398 -8.3020938,-8.3021 27.0565064,-19.59563 32.2705524,1.26057 5.824313,23.29724 -17.112541,32.90213 -21.429663,50.17062 -2.326056,9.30422 20.020064,19.86408 21.912123,28.60491"
+       id="path963" />
   </g>
 </svg>
