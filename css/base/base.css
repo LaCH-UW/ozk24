@@ -1,3 +1,5 @@
 body {
     background-image: url("../../static/nitka.svg");
+    background-position: 98% 100%;
+    background-repeat: repeat-y;
 }

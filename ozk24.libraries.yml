@@ -1,7 +1,7 @@
 global-styling:
   css:
     base:
-      css/base/base.css : {}
+      css/base/base.css: {}
       css/base/variables.css: {}
       css/base/fonts.css: {}
     layout:
